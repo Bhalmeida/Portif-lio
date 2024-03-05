@@ -1,4 +1,4 @@
-# Redes Sociais
+# Redes Sociais.
 Projetos
 
 !DOCTYPE html>
